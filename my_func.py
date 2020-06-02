@@ -17,3 +17,7 @@ def df_value_counts(df):
         print()
     return None
 
+def log_to_dollars(number):
+    dollars = 10**number
+    return dollars.round(2)
+
