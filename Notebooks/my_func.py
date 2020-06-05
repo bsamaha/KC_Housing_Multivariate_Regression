@@ -21,6 +21,14 @@ def df_value_counts(df):
         print()
     return None
 
+def df_unique_values(df):
+    for column in df:
+        print('**************** Column Name:',column,'****************')
+        print(df[column].unique())
+        print('-'*100)
+        print()
+    return None
+
 def log_to_dollars(number):
     dollars = np.e**number
     return dollars.round(2)
