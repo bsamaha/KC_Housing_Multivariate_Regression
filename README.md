@@ -5,9 +5,9 @@ This README is a essentially a table of contents for every file in the repositor
 ___________________________________________________________________________________________
 ## ***Purpose***
 
-The purpose of this linear regression exercise was to create a model that could accurately predict price. The focus was to create a very simple model inputs that are easily obtained and verfiable. We wanted to make this a foolproof model that is everyone to be able to use.
+The purpose of this linear regression exercise was to create a model that could accurately predict price. The focus was to create a very simple model inputs that are easily obtained and verifiable. We wanted to make this a foolproof model that is everyone to be able to use.
 
-*Use case example: You are searching for homes to buy on zillow, but the Zestimate looks to be way off. You dont have any experience in real estate and are not from the area so you have no gauge on what prices typically range.*
+*Use case example: You are searching for homes to buy on Zillow, but the Zestimate looks to be way off. You don't have any experience in real estate and are not from the area so you have no gauge on what prices typically range.*
 
 __________________________________________________________________
 
@@ -21,16 +21,16 @@ __________________________________________________________________
 
   * [2. Data Exploration](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Evaluating%20The%20Box%20Office.ipynb) - Exploration of cleaned data
 
-  - [3. SF~Price Simple Linear Regression](https://github.com/bsamaha/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320/blob/master/Notebooks/3.%20SF~Price%20Simple%20Linear%20Regression.ipynb) - Simple Linear Regression with Living Area to predict Price
+  * [3. SF~Price Simple Linear Regression](https://github.com/bsamaha/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320/blob/master/Notebooks/3.%20SF~Price%20Simple%20Linear%20Regression.ipynb) - Simple Linear Regression with Living Area to predict Price
 
-  - [4. OLS Linear Regression Model.ipynb](https://github.com/bsamaha/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320/blob/master/Notebooks/4.%20OLS%20Linear%20Regression%20Model.ipynb) - Multiple Linear Regression using sm.OLS
+  * [4. OLS Linear Regression Model.ipynb](https://github.com/bsamaha/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320/blob/master/Notebooks/4.%20OLS%20Linear%20Regression%20Model.ipynb) - Multiple Linear Regression using sm.OLS
 
 3. [Non-Technical Presentation PDF](https://github.com/bsamaha/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320/blob/master/Module%202%20Presentation.pdf)
-4. [Video Overview of Project 10 minutes***STILL NEED TO DO***](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Video%20Presentation.mkv)
-5. [kc_county_multilinreg.sav](https://github.com/bsamaha/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320/blob/master/kc_county_multilinreg.sav) - This is a pickle file of the final multiple linear regression model
+
+4. [kc_county_multilinreg.sav](https://github.com/bsamaha/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320/blob/master/kc_county_multilinreg.sav) - This is a pickle file of the final multiple linear regression model
 
 ______________________________________________________________
-# Check out my [blog post***STILL NEED TO DO***](https://medium.com/@blake.samaha16/my-first-data-science-exploration-project-the-movie-industry-db9c308e3842) and provide some feedback!
+# Check out my [blog](https://medium.com/@blake.samaha16/my-guide-to-understanding-the-assumptions-of-ordinary-least-squares-regressions-b180f81801a4?source=friends_link&sk=ffd7fd919320f7d1b81aaf9635768467) and provide some feedback!
 ______________________________________________________________
 ### Future Work - If I had more time
 
